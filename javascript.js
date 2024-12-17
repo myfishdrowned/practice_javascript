@@ -40,8 +40,18 @@ console.log('greetings huzz!')
 // console.log((+true)); // 1
 // console.log((+""));   // 0
 
-let apples = "2";
-let oranges = "3";
+// let apples = "2";
+// let oranges = "3";
 
-// both values converted to numbers before the binary plus
-console.log((+apples + +oranges)); // 5
+// // both values converted to numbers before the binary plus
+// console.log((+apples + +oranges)); // 5
+
+// console.log(2 + 3)
+
+// let name = 'mahi'
+// let greeting = `hello I'm ${name}`
+// console.log(greeting)
+
+// console.log("the result is ${1 + 2}"); // the result is ${1 + 2} (double quotes do nothing)
+
+console.log(typeof 'foo')
