@@ -54,4 +54,34 @@ console.log('greetings huzz!')
 
 // console.log("the result is ${1 + 2}"); // the result is ${1 + 2} (double quotes do nothing)
 
-console.log(typeof 'foo')
+// console.log(typeof 'foo')
+
+
+// let browser = prompt('What is your browser? ')
+// if (browser == 'Edge') {
+//     alert("You've got the Edge!");
+// } else if (browser == 'Chrome'
+//     || browser == 'Firefox'
+//     || browser == 'Safari'
+//     || browser == 'Opera') {
+//     alert('Okay we support these browsers too');
+// } else {
+//     alert('We hope that this page looks ok!');
+// }
+// sayHello();
+// function sayHello() {
+//     console.log("Hello!");
+// }
+// // sayHello();
+
+// function first() {
+//     console.log("First");
+//     second();
+// }
+
+// function second() {
+//     console.log("Second");
+// }
+
+// first(); // "First" -> "Second"
+
