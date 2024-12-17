@@ -85,3 +85,33 @@ console.log('greetings huzz!')
 
 // first(); // "First" -> "Second"
 
+// function add7(number) {
+//     return number + 7;
+// }
+// number = +prompt('What\'s your number? ')
+// console.log(add7(number))
+
+// This is the arrow function version of the above function
+// const add7 = (number) => number + 7;
+
+// const number = +prompt('What\'s your number? ')
+// console.log(add7(number))
+
+// function multiply(a, b) {
+//     return a * b
+// }
+// a = prompt('first number: ')
+// b = prompt('second number: ')
+// console.log(multiply(a, b))
+
+// function capitalize(str) {
+//     return str[0].toUpperCase() + str.slice(1).toLowerCase();
+// }
+// str = prompt('What\'s your string? ')
+// console.log(capitalize(str))
+
+// function lastLetter(str) {
+//     return str[str.length - 1]
+// }
+// str = prompt('What\'s your string? ')
+// console.log(lastLetter(str))
