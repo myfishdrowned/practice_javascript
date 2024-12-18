@@ -1,18 +1,5 @@
 console.log('greetings huzz!')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 // let firstName = 'John'
 // let lastName = 'Pork'
 
@@ -115,3 +102,10 @@ console.log('greetings huzz!')
 // }
 // str = prompt('What\'s your string? ')
 // console.log(lastLetter(str))
+
+
+function greeting(name) {
+    return `hello, ${name}`;
+}
+let name = prompt('What\'s your name? ');
+console.log(greeting(name));
