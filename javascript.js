@@ -104,8 +104,14 @@ console.log('greetings huzz!')
 // console.log(lastLetter(str))
 
 
-function greeting(name) {
-    return `hello, ${name}`;
-}
-let name = prompt('What\'s your name? ');
-console.log(greeting(name));
+// function greeting(name) {
+//     return `hello, ${name}`;
+// }
+// let name = prompt('What\'s your name? ');
+// console.log(greeting(name));
+
+// const carBrands = ["McLaren", "Volvo", "BMW", 'Lexus'];
+// const moreCarBrands = ["Honda", "Tesla", "Toyota", 'Pagani'];
+// const cars = carBrands.concat(moreCarBrands)
+// console.log(cars)
+// console.log(cars.at(-1))
