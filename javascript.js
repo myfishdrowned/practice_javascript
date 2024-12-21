@@ -133,10 +133,17 @@ console.log('greetings huzz!' + '\n')
 // }
 // console.log(text)
 
-function practice() {
-    for (i = 0; i < 19; i++) {
-        console.log('why')
-    }
-}
-practice()
+// for (i = 1; i < 6; i++) {
+//     console.log('loop' + ' ' + i)
+//     if (i === 2)
+//         break
+// }
 
+
+const names = ['kurapika', 'gon', 'leorio', 'killua']
+
+function listNames(names) {
+    for (i = 0; i < names.length; i++)
+        console.log(names[i])
+}
+listNames(names)
