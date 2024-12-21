@@ -1,4 +1,4 @@
-console.log('greetings huzz!')
+console.log('greetings huzz!' + '\n')
 
 // let firstName = 'John'
 // let lastName = 'Pork'
@@ -117,10 +117,26 @@ console.log('greetings huzz!')
 // console.log(cars.at(-1))
 
 
-const cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
+// const cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
 
-let text = "";
-for (let i = 0; i < cars.length; i++) {
-    text += cars[i];
+// let text = "";
+// for (let i = 0; i < cars.length; i++) {
+//     text += cars[i];
+// }
+// console.log(text)
+
+// const cars = ['toyota', 'honda', 'lexus', 'nissan', 'infiniti', 'mazda']
+
+// let text = ''
+// for (let i = 0; i < cars.length; i++) {
+//     text += cars[i] + '\n'
+// }
+// console.log(text)
+
+function practice() {
+    for (i = 0; i < 19; i++) {
+        console.log('why')
+    }
 }
-console.log(text)
+practice()
+
